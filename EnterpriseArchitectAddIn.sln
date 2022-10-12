@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalAllocator", "FunctionalAllocator\FunctionalAllocator.csproj", "{00A40016-44F3-42F0-8247-021D499BAFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A40016-44F3-42F0-8247-021D499BAFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A40016-44F3-42F0-8247-021D499BAFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A40016-44F3-42F0-8247-021D499BAFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A40016-44F3-42F0-8247-021D499BAFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4AC360B-D286-4979-AED2-0A78A4E83419}
+	EndGlobalSection
+EndGlobal
